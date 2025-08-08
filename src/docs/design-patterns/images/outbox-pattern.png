@@ -1,0 +1,14 @@
+# Outbox Pattern Image Placeholder
+
+This is a placeholder for the Outbox Pattern featured image. 
+The actual image should be a diagram showing:
+
+1. Application Layer
+2. Database with Business Tables + Outbox Table  
+3. Background Processor
+4. External Systems (Email, APIs, etc.)
+
+With arrows showing the flow:
+Business Operation → Database Transaction (Business Data + Outbox Message) → Background Processor → External Systems
+
+Recommended dimensions: Similar to other pattern images in the repository.
