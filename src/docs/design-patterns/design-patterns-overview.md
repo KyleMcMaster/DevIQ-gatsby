@@ -29,14 +29,14 @@ Design patterns are common approaches to solving similar problems. The [1995 boo
 - Interpreter
 - Iterator
 - Lazy Load
-- Mediator
+- [Mediator](/design-patterns/mediator-pattern)
 - [Memento](/design-patterns/memento-pattern)
 - Model-View-Controller (MVC)
 - Model-View-Presenter (MVP)
 - Model-View-ViewModel (MVVM)
 - [Null Object](/design-patterns/null-object-pattern)
 - [Object Mother](/design-patterns/object-mother-pattern)
-- Observer
+- [Observer](/design-patterns/observer-pattern)
 - [Outbox](/design-patterns/outbox-pattern)
 - Prototype
 - [Proxy](/design-patterns/proxy-pattern)

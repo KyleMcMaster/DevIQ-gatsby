@@ -1,7 +1,7 @@
 ---
-title: "Code Smells"
-date: "2024-06-28"
-description: Code smells, or bad smells in code, refer to symptoms in code that may indicate deeper problems.
+title: "Code Smells - Overview"
+date: "2024-01-14"
+description: Code smells, or bad smells in code, refer to symptoms of code that may indicate deeper problems.
 featuredImage: "./images/code-smells.png"
 ---
 
@@ -14,7 +14,7 @@ Each of these smells is demonstrated, and corrective actions described, in the [
 ### Bloaters
 
 - Long Method
-- [Primitive Obsession](../code-smells/primitive-obsession-code-smell)
+- [Primitive Obsession](./primitive-obsession-code-smell)
 - Long Parameter List
 - Data Clumps
 - Combinatorial Explosion

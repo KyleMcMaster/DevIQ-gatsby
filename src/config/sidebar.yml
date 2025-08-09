@@ -28,12 +28,16 @@
       link: /design-patterns/factory-method-pattern
     - label: Guard Clause
       link: /design-patterns/guard-clause
+    - label: Mediator
+      link: /design-patterns/mediator-pattern
     - label: Memento
       link: /design-patterns/memento-pattern
     - label: Null Object
       link: /design-patterns/null-object-pattern
     - label: Object Mother
       link: /design-patterns/object-mother-pattern
+    - label: Observer
+      link: /design-patterns/observer-pattern
     - label: Outbox Pattern
       link: /design-patterns/outbox-pattern
     - label: Proxy
@@ -268,6 +272,12 @@
       link: /antipatterns/waterfall
     - label: Witches' Brew Architecture
       link: /antipatterns/witches-brew-architecture
+- label: Code Smells
+  items:
+    - label: Overview
+      link: /code-smells/code-smells-overview
+    - label: Primitive Obsession
+      link: /code-smells/primitive-obsession-code-smell
 - label: Domain Driven Design
   items:
     - label: Overview
@@ -368,16 +378,24 @@
       link: /laws/goodharts-law
     - label: Hebb's Law
       link: /laws/hebbs-law
+    - label: Hick's Law
+      link: /laws/hicks-law
     - label: Hofstadters's Laws
       link: /laws/hofstadters-law
+    - label: Kerckhoff's Principle
+      link: /laws/kerckhoffs-principle
     - label: Linus's Law
       link: /laws/linus-law
+    - label: Moore's Law
+      link: /laws/moores-law
     - label: Murphy's Law
       link: /laws/murphys-law
     - label: Postel's Law
       link: /laws/postels-law
-    - label: Laws of Architecture
+    - label: Software Architecture, Laws of
       link: /laws/laws-software-architecture
+    - label: Wirth's Law
+      link: /laws/wirths-law
 - label: Architecture
   items:
     - label: Overview
