@@ -1,11 +1,11 @@
 ---
 title: "Outbox Design Pattern"
-date: "2024-10-20"
+date: "2025-08-04"
 description: The Outbox design pattern is a messaging pattern that can be used to ensure that messages are delivered at least once, even if the system crashes.
 featuredImage: "./images/outbox-pattern.png"
 ---
 
-TODO: Add content here.
+The Outbox design pattern is a messaging pattern that can be used to ensure that messages are delivered at least once, even if the system crashes. This pattern is useful when you need to send messages to other systems or services, and you want to ensure that the messages are delivered reliably. 
 
 ## References 
 
