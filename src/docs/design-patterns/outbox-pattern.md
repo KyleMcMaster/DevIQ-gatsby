@@ -1,6 +1,6 @@
 ---
 title: "Outbox Design Pattern"
-date: "2025-08-04"
+date: "2025-08-09"
 description: The Outbox design pattern is a messaging pattern that can be used to ensure data consistency and reliability in distributed systems.
 featuredImage: "./images/outbox-pattern.png"
 ---
