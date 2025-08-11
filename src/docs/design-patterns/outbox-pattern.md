@@ -178,3 +178,4 @@ public class OutboxMessageProcessor : BackgroundService
 
 - [Building a Resilient Email Sending Method in .NET with SmtpClient, Retry Support, and the Outbox Pattern](https://ardalis.com/building-resilient-email-method-dotnet-retry-outbox-pattern/)
 - [Send Email in dotnet with Mimekit, Retry, and Outbox Pattern](https://www.youtube.com/watch?v=qD3ZMH5x3uc)
+- [Two-Phase Commit](https://martinfowler.com/articles/patterns-of-distributed-systems/two-phase-commit.html)
